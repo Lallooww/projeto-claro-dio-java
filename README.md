@@ -7,7 +7,6 @@ Indo do básico de uma das principais linguagens back-end até práticas avança
 📌 [Acesso ao Bootcamp: Digital Innovation One](https://web.dio.me/track/2e52ad2d-0a3b-4ade-a4ae-17830f528834?tab=about)
 
 ---
-<br>
 
 #### Contribuição
 ◽ Este projeto está sendo desenvolvido para fins de estudo e auto-avaliação. 
@@ -19,6 +18,7 @@ Indo do básico de uma das principais linguagens back-end até práticas avança
 🌐 Compartilhe com seus Colegas!<br />
 
 <br>
+
 ---
 Disponibilizado com ♥ por [Lara Dawson](https://www.linkedin.com/in/lallooww/)!
 👋 [LinkedIn](https://www.linkedin.com/in/lallooww/)<br />
