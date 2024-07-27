@@ -17,8 +17,6 @@ Indo do básico de uma das principais linguagens back-end até práticas avança
 🐛 Encontrar e relatar issues.<br />
 🌐 Compartilhe com seus Colegas!<br />
 
-<br>
-
 ---
 Disponibilizado com ♥ por [Lara Dawson](https://www.linkedin.com/in/lallooww/)!<br />
 👋 [LinkedIn](https://www.linkedin.com/in/lallooww/)<br />
