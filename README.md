@@ -17,6 +17,7 @@ Disponibilizado com ♥ por [Lara Dawson](https://www.linkedin.com/in/lallooww/)
 ### Contribuição
 ◽ Este projeto está sendo desenvolvido para fins de estudo e auto-avaliação. 
 ◽ Eu espero que você tenha gostado! 👋
+
 #### Se você puder:
 🌟 Adicione sua estrela.<br />
 🐛 Encontrar e relatar issues.<br />
