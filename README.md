@@ -9,7 +9,7 @@ Indo do básico de uma das principais linguagens back-end até práticas avança
 ---
 
 #### Contribuição
-◽ Este projeto está sendo desenvolvido para fins de estudo e auto-avaliação. 
+◽ Este projeto está sendo desenvolvido para fins de estudo e auto-avaliação. <br />
 ◽ Eu espero que você tenha gostado! 👋
 
 #### Se você puder:
@@ -20,6 +20,6 @@ Indo do básico de uma das principais linguagens back-end até práticas avança
 <br>
 
 ---
-Disponibilizado com ♥ por [Lara Dawson](https://www.linkedin.com/in/lallooww/)!
+Disponibilizado com ♥ por [Lara Dawson](https://www.linkedin.com/in/lallooww/)!<br />
 👋 [LinkedIn](https://www.linkedin.com/in/lallooww/)<br />
 🤳 [Instagram](https://www.instagram.com/lallooww/)
